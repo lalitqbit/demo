@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Basic route
 app.get('/', (req, res) => {
-    res.send('This is Devops Blugreen!today session sucessfully ');
+    res.send('This is Devops Blugreen!today session  today sucessfully ');
 });
 
 // Start server
